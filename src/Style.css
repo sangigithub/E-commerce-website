@@ -1,0 +1,250 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav ul {
+  list-style: none;
+}
+nav ul li a {
+  color: black;
+  font-size: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.top {
+  background: #FAFAFA;
+  text-align: center;
+  border-bottom: 1px solid rgb(218, 213, 213);
+}
+
+.hf {
+  font-size: 11px;
+}
+
+.con {
+  max-width: 1200px;
+  margin: auto;
+}
+
+.logo {
+  background: #FAFAFA;
+  padding-bottom: 5px;
+}
+.logo img {
+  padding-top: 15px;
+}
+.logo .btn {
+  width: 500px;
+  height: 30px;
+  border: 1px solid black;
+  font-size: 11px;
+  text-align: left;
+  margin-left: 15px;
+}
+.logo i {
+  position: relative;
+  right: 4%;
+  font-size: 18px;
+}
+
+.angled {
+  position: relative;
+  left: 5px;
+  top: 4px;
+  font-size: 10px;
+}
+
+.f {
+  display: inline-block;
+}
+
+.rounded-circle {
+  width: 20px;
+  height: 20px;
+}
+
+.nav-link {
+  font-size: 14px;
+}
+
+.navbar {
+  background: #3DA89F !important;
+}
+.navbar a {
+  color: white !important;
+}
+.navbar a:hover {
+  background: #613F99 !important;
+}
+.navbar li {
+  padding: 1px 10px;
+}
+
+.time h4 {
+  padding-left: 10rem;
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+.image {
+  max-width: 1170px;
+  margin: auto;
+}
+
+.s-100 {
+  width: 105%;
+}
+
+.m-100 {
+  width: 100%;
+  height: 133%;
+}
+
+.winter {
+  background: #FAFAFA;
+}
+
+.ww {
+  width: 20%;
+}
+
+.rs3 {
+  height: 150px;
+}
+
+.rs {
+  height: 150px;
+}
+
+.stop {
+  background: #FAFAFA;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  height: 250px;
+}
+
+.pubox {
+  width: 140px;
+  height: 50px;
+}
+
+.puf {
+  font-size: 10px;
+}
+
+.foot {
+  background: #F3F3F3;
+}
+
+.subscribe h6 {
+  font-size: 14px;
+  color: black;
+}
+.subscribe p {
+  font-size: 12px;
+  opacity: 0.8;
+}
+.subscribe input {
+  width: 500px;
+  height: 30px;
+  border-radius: 5px;
+  font-size: 12px;
+  margin-left: 100px;
+}
+.subscribe button {
+  width: 100px;
+  height: 30px;
+  font-size: 13px;
+  color: white;
+  background: #613F99;
+  border: 1px solid #613F99;
+  border-radius: 2px;
+  position: relative;
+  right: 100px;
+}
+
+.foot {
+  background: #F3F3F3;
+}
+.foot p {
+  font-size: 11px;
+  color: #3DA89F;
+}
+.foot h6 {
+  text-align: center;
+}
+.foot ul {
+  list-style: none;
+}
+.foot ul li a {
+  font-size: 12px;
+}
+.foot ul li a:hover {
+  color: #3DA89F;
+}
+.foot ul li a i {
+  margin-right: 5px;
+  font-size: 14px;
+}
+.foot h5 {
+  font-size: 16px;
+}
+
+.paaddd {
+  padding-top: 4.7rem;
+}
+
+.yt {
+  color: red;
+}
+
+.fb {
+  color: #475992;
+}
+
+.nlink {
+  color: #613F99;
+  font-size: 12px;
+}
+
+.fsize {
+  font-size: 12px;
+}
+
+.lfoot {
+  background: #EDEDED;
+}
+.lfoot p {
+  font-size: 10px;
+  text-align: center;
+  color: #613F99;
+}
+.lfoot span {
+  color: #3DA89F;
+}
+
+.dropdown-menu ul li a {
+  color: black !important;
+  font-size: 14px !important;
+  background: white !important;
+}
+.dropdown-menu ul li a:hover {
+  color: #3DA89F !important;
+}
+
+.colr {
+  color: #3DA89F !important;
+}/*# sourceMappingURL=Style.css.map */
